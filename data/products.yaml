@@ -1,1 +1,14 @@
 # Data produktu
+
+- product:
+    name: Brambory
+    saler: Albert
+    uniqid: 1
+- product:
+    name: Jablka
+    saler: Tesco
+    uniqid: 2
+- product:
+    name: Mléko polotučné
+    saler: Lidl
+    uniqid: 3
