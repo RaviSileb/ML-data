@@ -1,1 +1,11 @@
 # prices of products
+
+- price:
+    value: 25
+    uniqid: 1
+- price:
+    value: 39
+    uniqid: 2
+- price:
+    value: 14
+    uniqid: 3
